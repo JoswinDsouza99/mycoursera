@@ -13,6 +13,8 @@ p{
 	margin: 30px;
 	overflow: auto;
 	background-color: grey;
+	height: 300px;
+	/*width: 450px; */
 	}
 #ptitle1 {
 	background-color: cyan;
@@ -47,6 +49,7 @@ p{
 }
 .row {
 	width: 100%;
+	margin-left: 40px;
 }
 
 @media (min-width: 992px){
