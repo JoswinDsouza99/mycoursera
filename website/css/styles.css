@@ -1,0 +1,27 @@
+.nav-brand {
+  font-size: 2.5em;
+}
+
+.nav-item {
+  text-align: center;
+  border: 2px;
+  border-color: black;
+}
+
+.header {
+  text-align: center;
+  font-size: 2em;
+}
+
+.row {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#div-header {
+  font-size: 1.6em;
+}
+
+#background {
+  background-color: skyblue;
+}
